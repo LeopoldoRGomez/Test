@@ -1,0 +1,7 @@
+streamlit
+pandas
+fpdf
+qrcode
+xlsxwriter
+streamlit-folium
+folium
